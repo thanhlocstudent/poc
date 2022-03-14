@@ -11,7 +11,7 @@
 
           <item>
         <title><h1>ABC</h1></title>
-        <link>https://craftcms.com/blog/craft-4-beta</link>
+        <link>javascript:alert(1337)</link>
         <pubDate>Wed, 09 Mar 2022 12:45:00 -0800</pubDate>
         <author>hello@craftcms.com</author>
         <guid>https://craftcms.com/blog/craft-4-beta</guid>
